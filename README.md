@@ -1,4 +1,6 @@
 # Orthotic Leg-Analyser
+IoT-Based Orthotic Leg Analyzer using piezoelectric sensors to monitor foot pressure and analyze gait patterns for joint improvement insights.
+
 # Problem Definition
 
 Many individuals, including athletes and patients recovering from foot injuries, need an effective way to monitor and analyze foot pressure. Current solutions often lack real-time tracking or user-friendly visualization. This project aims to fill that gap by collecting and analyzing foot pressure data using sensors, storing it for long-term monitoring, and displaying it in an intuitive web interface.
