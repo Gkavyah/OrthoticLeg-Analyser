@@ -9,22 +9,22 @@ The project provides a comprehensive system for tracking and visualizing foot pr
 
 # Tech Stacks Used
 
-# Hardware:
+*Hardware:*
 
 1.Piezoelectric sensors, 
 2.ESP32 microcontroller
 
-Frontend:
+*Frontend:*
 
 1.HTML, 
 2.CSS, 
 3.JavaScript, 
 4.Chart.js
 
-Backend: 
+*Backend:* 
 PHP
 
-Database:
+*Database:*
 MySQL
 
 Data Transmission:
